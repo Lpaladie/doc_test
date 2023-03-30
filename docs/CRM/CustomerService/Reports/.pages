@@ -1,0 +1,32 @@
+title: Отчеты
+collapse: false
+arrange:
+    - OrdersExecutionAnalysis.md
+    - CustomerOrders.md
+    - GeneratedRoute.md
+    - ActuallyShippedRoute.md
+    - ReasonsForDocumentAdjustments.md
+    - RegisterOfCustomerOrders.md
+    - RegisterImplementationsProducts.md
+    - RegisterImplementationAdjustments.md
+    - XYZAnalysisOfPlanningGroups.md
+    - XYZAnalysisOfProductsByCustomerOrders.md
+    - NewCustomersOnOrders.md
+    - LostCustomersOnOrders.md
+    - SalesForPeriod.md
+    - ABCClassificationOfClients.md
+    - ABCClassificationOfGoods.md
+    - XYZCustomerAnalysis.md
+    - XYZAnalysisOfProductCategories.md
+    - XYZProductAnalysis.md
+    - DynamicsOfActiveCustomerBase.md
+    - DynamicsOfCustomerBaseBySalesChannels.md
+    - DynamicsOfCustomerBaseByTerritory.md
+    - DynamicsOfCustomerBaseBySalesRepresentatives.md
+    - ActiveCustomerBaseForPeriod.md
+    - CustomerBaseBySalesChannels.md
+    - CustomerBaseByRegion.md
+    - CustomerBaseBySalesRepresentatives.md
+    - NewCustomers.md
+    - LostCustomers.md
+    - ComparativeAnalysisSalesOfNPeriods.md

@@ -1,0 +1,7 @@
+title: CRM
+collapse: false
+arrange:
+    - CrmScheme.md
+    - CustomerService
+    - SalesPlanning
+    - Marketing

@@ -1,0 +1,6 @@
+title: Формирование заказов
+collapse: false
+arrange:
+    - FormationOfOrdersScheme.md
+    - CustomerOrder.md
+    - OrderProcessing

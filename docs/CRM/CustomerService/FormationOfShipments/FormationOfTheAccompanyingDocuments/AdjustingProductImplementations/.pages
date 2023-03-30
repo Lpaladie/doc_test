@@ -1,0 +1,5 @@
+title: Корректировка накладных
+collapse: false
+arrange:
+    - AdjustingProductImplementations.md
+    - RegistrationOfSurplusesOShortages.md

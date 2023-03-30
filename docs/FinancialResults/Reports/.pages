@@ -1,0 +1,6 @@
+title: Отчеты
+collapse: false
+arrange:
+    - IncomeAndExpenses.md
+    - GrossProfitByCounterparties.md
+    - GrossProfitByNomenclature.md

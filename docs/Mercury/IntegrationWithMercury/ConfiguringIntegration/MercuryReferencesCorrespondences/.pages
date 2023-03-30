@@ -1,0 +1,10 @@
+title: Соответствия справочников Меркурия
+collapse: false
+arrange:
+    - MercuryReferencesCorrespondences.md
+    - UsersCorrespondences.md
+    - CorrespondencesOfEnterprisesWithPartners.md
+    - CorrespondencesOfEnterprisesWithWarehouses.md
+    - ProductCorrespondences.md
+    - CorrespondencesOfEconomicEntityesWithContractors.md
+    - CorrespondencesOfEconomicEntityesWithOrganizations.md

@@ -1,0 +1,10 @@
+title: Клиентский сервис
+collapse: false
+arrange:
+    - CustomerServiceScheme.md
+    - Pricing
+    - FormationOfOrders
+    - FormationOfShipments
+    - FormationOfAFeedback
+    - CustomerInformation.md
+    - Reports

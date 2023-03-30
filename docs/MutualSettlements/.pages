@@ -1,0 +1,17 @@
+title: Взаиморасчеты
+collapse: false
+arrange:
+    - SchemeMutualSettlements.md
+    - PaymentSchedule.md
+    - FormationOfDebts.md
+    - CashFlowItems.md
+    - ReceiptsOfNonCashFunds.md
+    - IncomingCashOrders.md
+    - CashExpenseOrders.md
+    - OffsettingOfDebts.md
+    - DebtWriteOff.md
+    - ReconciliationOfMutualSettlements.md
+    - CashBookSheets.md
+    - CashInventory.md
+    - DistributionOfAdvances.md
+    - Reports

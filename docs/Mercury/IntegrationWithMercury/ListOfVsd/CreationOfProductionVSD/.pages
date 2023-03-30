@@ -1,0 +1,9 @@
+title: Создание производственных ВСД
+collapse: false
+arrange:
+    - CreationOfProductionVSD.md
+    - ManualCreation.md
+    - AutomaticCreation.md
+    - FillingOfPackagesAndLabels.md
+    - WriteOffOfRawMaterialsForProducts.md
+    - ClosingProductionTransaction.md

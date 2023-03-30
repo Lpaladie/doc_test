@@ -1,0 +1,7 @@
+title: Обмен со шлюзом
+collapse: false
+arrange:
+    - ExchangeWithGateway.md
+    - SendingApplications.md
+    - SettingScheduledExchange.md
+    - ObjectsToSync.md

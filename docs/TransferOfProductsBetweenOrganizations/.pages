@@ -1,0 +1,8 @@
+title: Передачи товаров между организациями
+collapse: false
+arrange:
+    - SchemeTransferOfProducts.md
+    - SettingsForTransferringProductsBetweenOrganizations.md
+    - TransferOfProductsBetweenOrganizations.md
+    - RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.md
+    - Reports.md

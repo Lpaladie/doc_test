@@ -1,0 +1,8 @@
+title: Настройка интеграции
+collapse: false
+arrange:
+    - ConfiguringIntegration.md
+    - CustomizationTab.md
+    - ClassifiersTab.md
+    - ServiceTab.md
+    - MercuryReferencesCorrespondences

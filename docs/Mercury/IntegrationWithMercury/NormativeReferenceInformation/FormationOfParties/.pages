@@ -1,0 +1,9 @@
+title: Формирование партий
+collapse: false
+arrange:
+    - FormationOfParties.md
+    - BatchDesignSettings.md
+    - FormationOfProductionBatches.md
+    - FormationOfOutgoingParties.md
+    - PackagingAndLabelingOfProducts.md
+    - ListOfOperationalAccountingDocuments.md

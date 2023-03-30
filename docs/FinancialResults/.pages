@@ -1,0 +1,13 @@
+title: Финансовый результат
+collapse: false
+arrange:
+    - SchemeFinancialResults.md
+    - DirectionOfActivity.md
+    - ItemsOfExpenditure.md
+    - IncomeItems.md
+    - CostAllocationScenario.md
+    - ReceiptOfAdditionalCosts.md
+    - OtherExpenses.md
+    - CostAllocation.md
+    - InventoryWriteOffAdjustment.md
+    - Reports

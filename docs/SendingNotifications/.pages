@@ -1,0 +1,9 @@
+title: Рассылка оповещений
+collapse: false
+arrange:
+    - SchemeSendingNotifications.md
+    - MailingGroups.md
+    - EventsForMailing.md
+    - TypesNotificationsForMailings.md
+    - SubscriptionsToMailings.md
+    - NotificationQueueForMailings.md

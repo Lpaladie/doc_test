@@ -1,0 +1,8 @@
+title: Оформление транспортных ВСД
+collapse: false
+arrange:
+    - RegistrationOfTransportVSD.md
+    - ManualCreation.md
+    - AutomaticCreation.md
+    - FillingOfPackagesAndLabels.md
+    - RegionalizationAndConditionsOfMovement.md

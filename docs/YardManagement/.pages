@@ -1,0 +1,9 @@
+title: Управление двором
+collapse: false
+arrange:
+    - SchemeYardManagement.md
+    - WarehouseSettings.md
+    - Ramps.md
+    - YardManagementSettings.md
+    - YardManagement.md
+    - Reports.md

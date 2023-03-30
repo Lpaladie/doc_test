@@ -1,0 +1,7 @@
+title: Закупки
+collapse: false
+arrange:
+    - OrderToSupplier.md
+    - ReceiptOfProducts.md
+    - AdjustmentOfReceiptOfProducts.md
+    - ReturnToSupplier.md

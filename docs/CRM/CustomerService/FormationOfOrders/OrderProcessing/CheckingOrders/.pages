@@ -1,0 +1,17 @@
+title: Проверки заказов
+collapse: false
+arrange:
+    - CheckingOrders.md
+    - CheckingForProductAssortment.md
+    - CheckingTheDeliverySchedule.md
+    - CheckingAccountsReceivable.md
+    - CheckingTheMultiplicityOfShipments.md
+    - CheckingTheMinimumAmount.md
+    - CheckingOverdueAccountsReceivable.md
+    - CheckingTheSeasonalityOfProducts.md
+    - CheckingProductAvailabilityForSales.md
+    - CheckingTheAllowableAmountOfShipments.md
+    - CheckingTheAllowedVolumeOfShipments.md
+    - CheckingTheNumberOfDaysOfDeferredPayment.md
+    - CheckingTheOrderAcceptanceTime.md
+    - CheckingThePrice.md

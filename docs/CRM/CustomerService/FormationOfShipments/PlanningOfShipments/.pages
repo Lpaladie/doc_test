@@ -1,0 +1,5 @@
+title: Планирование отгрузок
+collapse: false
+arrange:
+    - CreationOfPlansForShipment.md
+    - DistributionOfShipmentsByCar.md

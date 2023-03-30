@@ -1,0 +1,5 @@
+title: Меркурий
+collapse: false
+arrange:
+    - IntegrationWithMercury
+    - Manufacture

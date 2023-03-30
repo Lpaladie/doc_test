@@ -1,0 +1,12 @@
+title: Оперативный обмен в производственном контуре
+arrange:
+    - RegulatoryInformation
+    - SettingRulesForInterpretation.md
+    - EstablishRelationshipBetweenBatches.md
+    - MilkReceiving
+    - UnfinishedProduction.md
+    - ProductionOutput.md
+    - Shipment.md
+    - CloseTransaction.md
+    - Reports.md
+    - Data_correspondence_vsd.md

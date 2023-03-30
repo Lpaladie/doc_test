@@ -1,0 +1,6 @@
+title: Настройка справочников и констант
+arrange:
+    - Constants
+    - ChangeProduction
+    - TemplatesOfID
+    - TemplatesOfTransaction

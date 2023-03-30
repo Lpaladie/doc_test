@@ -1,0 +1,7 @@
+title: Рабочее место ветеринарного врача
+collapse: false
+arrange:
+    - WorkplaceVeterinarian.md
+    - WorkplaceScenarios.md
+    - Production.md
+    - Provision.md

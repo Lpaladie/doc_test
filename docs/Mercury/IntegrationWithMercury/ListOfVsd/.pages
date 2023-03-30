@@ -1,0 +1,8 @@
+title: Список ВСД
+collapse: false
+arrange:
+    - ListOfVsd.md
+    - ExtinguishingIncomingVSD.md
+    - CreationOfProductionVSD
+    - RegistrationOfTransportVSD
+    - CancellationVSD.md

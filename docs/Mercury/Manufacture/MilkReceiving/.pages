@@ -1,0 +1,6 @@
+title: Приемка молочного сырья
+arrange:
+    - LoadDocs.md
+    - MilkReceiving.md
+    - Monitoring.md
+    - CloseWorkShift.md

@@ -1,0 +1,9 @@
+title: Нормативно-справочные сведения
+collapse: false
+arrange:
+    - EconomicEntities.md
+    - Enterprises.md
+    - Nomenclature.md
+    - ProductsNames.md
+    - FormationOfParties
+    - VeterinaryEvents

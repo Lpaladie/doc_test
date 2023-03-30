@@ -1,0 +1,9 @@
+title: Складской журнал
+collapse: false
+arrange:
+    - ProductionJournal.md
+    - UpdatingJournalEntries.md
+    - MergingJournalEntries.md
+    - ReservingJournalEntries.md
+    - Inventory.md
+    - AttachingVeterinaryEvents.md

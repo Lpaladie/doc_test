@@ -1,3 +1,18 @@
 arrange:
     - index.md
+    - CommonInformation
+    - Manufacture
+    - CRM
+    - TransferOfProductsBetweenOrganizations
+    - Purchases
+    - Warehouse
+    - Marking
+    - Mercury
+    - ChZ
+    - FinancialResults
+    - MutualSettlements
+    - Cutting
+    - SCP
+    - YardManagement
+    - SendingNotifications
     - Integration

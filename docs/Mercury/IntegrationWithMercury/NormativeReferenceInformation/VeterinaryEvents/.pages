@@ -1,0 +1,6 @@
+title: Ветеринарные события
+collapse: false
+arrange:
+    - GroupVeterinaryEvents.md
+    - VeterinaryEvents.md
+    - TemplateForEnteringInformation.md
