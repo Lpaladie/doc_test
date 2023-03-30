@@ -340,20 +340,6 @@
     - [Ведомость наличных денежных средств в кассах](MutualSettlements/Reports/StatementOfCashInCashDesks.md)
     - [Остатки наличных денежных средств в кассах](MutualSettlements/Reports/CashBalancesAtTheCashDesks.md)
 
-<h2> Формирование заявок на производство </h2>
-
-- [Схема формирования заявок на производство](SCP/SchemeSCP.md)
-- [Буфер](SCP/Buffer.md)
-- [Схемы обеспечения](SCP/ProvisionScheme.md)
-- [Прогнозные остатки производства](SCP/ProductionResidues.md)
-- [Правила расчета отгрузок](SCP/RulesForCalculatingShipments.md)
-- [Сценарии планирования потребностей](SCP/NeedsPlanningScenarios.md)
-- [Сценарии планирования заявок на день](SCP/ScenariosForPlanningRequestsForTheDay.md)
-- [Сценарии планирования цепочек поставок](SCP/SupplyChainPlanningScenarios.md)
-- [Планирование потребностей](SCP/NeedsPlanning.md)
-- [Планирование заявок на день](SCP/PlanningRequestsForTheDay.md)
-- [Планирование цепочек поставок](SCP/SupplyChainPlanning.md)
-
 <h2> Управление двором </h2>
 
 - [Схема управления двором](YardManagement/SchemeYardManagement.md)

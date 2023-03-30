@@ -10,7 +10,5 @@ arrange:
     - Mercury
     - FinancialResults
     - MutualSettlements
-    - Cutting
-    - SCP
     - YardManagement
     - SendingNotifications
